@@ -2,6 +2,9 @@
 
 ![satler's recentry played spotify](https://spotify-recently-played-readme.vercel.app/api?user=31esvanlpmk3rtcucqgoctnwkeau)
 
+I still can't use TS well;;
+I'll use Rust and Elixir.
+
 # Status
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satler-git&theme=2077)

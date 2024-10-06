@@ -7,6 +7,8 @@ I'll use Rust and Elixir.
 
 # Status
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=satler-git)](https://git.io/streak-stats)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satler-git&theme=omni)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satler-git&theme=omni)

@@ -14,3 +14,4 @@ I'll use Rust and Elixir.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satler-git&theme=omni)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=satler-git&theme=omni)
 
+[![An image of @satlergit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satlergit)](https://holopin.io/@satlergit)

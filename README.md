@@ -1,10 +1,9 @@
 # satler-git
 
-A student in japan.
+A student in Japan.
 
-I still can't use TS well;;
-I'll use Rust and Elixir.
-I'm learning Haskell.
+I use Rust.
+langs: ja, en, Rust, Nix, Elixir, (Haskell), (Lean)
 
 # Status
 
